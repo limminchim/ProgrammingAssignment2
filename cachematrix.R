@@ -4,6 +4,9 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
+    
+        ## my first editing
+        print(x)
 
 }
 
@@ -12,4 +15,5 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
+        print(x)
 }
