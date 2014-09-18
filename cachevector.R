@@ -1,13 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Example: Caching the Mean of a Vector
 ## The <<- operator 
 ##  - can be used to assign a value to an object in an environment
 ##    that is different from the current environment. 
 ## Below are 2 functions used to create a special object that stores a numeric 
 ##    vector and cache its mean. 
-
 
 ## Creates a special "vector", which is really a list containing a function to
 ##    - set the value of the vector
